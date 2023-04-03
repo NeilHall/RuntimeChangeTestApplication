@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @Slf4j
-public class RuntimechangetestApplication {
+public class RuntimeChangeTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RuntimechangetestApplication.class, args);
+        SpringApplication.run(RuntimeChangeTestApplication.class, args);
     }
 }
